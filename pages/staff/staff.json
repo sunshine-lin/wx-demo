@@ -1,0 +1,27 @@
+{
+  "navigationBarBackgroundColor": "#ffffff",
+  "navigationBarTextStyle": "black",
+  "navigationBarTitleText": "微信接口功能演示",
+  "backgroundColor": "#eeeeee",
+  "backgroundTextStyle": "light",
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/logs/logs",
+        "text": "日志"
+      },
+      {
+        "pagePath": "pages/staff/staff",
+        "text": "人员"
+      }
+    ],
+    "color": "#fff",
+    "backgroundColor": "#000",
+    "selectedColor": "#0f0",
+    "position": "top"
+  }
+}
